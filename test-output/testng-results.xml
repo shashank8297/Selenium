@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18117" started-at="2024-01-05T07:26:40Z" finished-at="2024-01-05T07:26:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18117" started-at="2024-01-05T07:26:40Z" finished-at="2024-01-05T07:26:58Z">
+      <class name="com.infinite.priority.TestNGKatalon">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infinite.priority.TestNGKatalon@783e6358]" name="setUp" is-config="true" duration-ms="3827" started-at="2024-01-05T12:56:40Z" finished-at="2024-01-05T12:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitledTestCase()[pri:0, instance:com.infinite.priority.TestNGKatalon@783e6358]" name="testUntitledTestCase" duration-ms="13009" started-at="2024-01-05T12:56:44Z" finished-at="2024-01-05T12:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infinite.priority.TestNGKatalon@783e6358]" name="tearDown" is-config="true" duration-ms="1266" started-at="2024-01-05T12:56:57Z" finished-at="2024-01-05T12:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infinite.priority.TestNGKatalon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
