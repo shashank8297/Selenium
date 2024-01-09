@@ -27,7 +27,6 @@ public class HeadlessChromeDemo {
 		driver.findElement(By.id("APjFqb")).sendKeys(Keys.ESCAPE);
 		driver.findElement(By.id("APjFqb")).sendKeys(Keys.ENTER);
 		
-		
 		Thread.sleep(3000);
 		System.out.println("Completed");
 		driver.close();
